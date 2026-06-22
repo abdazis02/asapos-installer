@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-  <release version="1.0.0" build="1" mandatory="false">
-    <notes>Perbaikan stabilitas kasir dan sinkronisasi.</notes>
+  <release version="1.0.1" build="2" mandatory="false">
+    <notes>Perbaikan fitur bahan baku F&B, login Ingat Saya, tampilan produk, dan update sistem.</notes>
 
     <android
-      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.0/asa-pos-1.0.0.apk"
-      fileName="asa-pos-1.0.0.apk" />
+      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.1/asa-pos-1.0.1.apk"
+      fileName="asa-pos-1.0.1.apk" />
 
     <windows
-      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.0/asa-pos-setup-1.0.0.exe"
-      fileName="asa-pos-setup-1.0.0.exe" />
+      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.1/asa-pos-setup-1.0.1.exe"
+      fileName="asa-pos-setup-1.0.1.exe" />
   </release>
 </updates>
