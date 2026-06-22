@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+  <release version="1.0.0" build="1" mandatory="false">
+    <notes>Perbaikan stabilitas kasir dan sinkronisasi.</notes>
+
+    <android
+      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.0/asa-pos-1.0.0.apk"
+      fileName="asa-pos-1.0.0.apk" />
+
+    <windows
+      url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.0/asa-pos-setup-1.0.0.exe"
+      fileName="asa-pos-setup-1.0.0.exe" />
+  </release>
+</updates>
