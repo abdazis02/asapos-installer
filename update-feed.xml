@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-  <release version="1.0.1" build="2" mandatory="false">
-    <notes>Perbaikan fitur bahan baku F&B, login Ingat Saya, tampilan produk, dan update sistem.</notes>
+  <release version="1.0.1" build="3" mandatory="false">
+    <notes>FIX BUG</notes>
 
     <android
       url="https://github.com/abdazis02/asapos-installer/releases/download/v1.0.1/asa-pos-1.0.1.apk"
