@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-  <release version="1.0.1" build="3" mandatory="false">
+  <release version="1.0.1" build="4" mandatory="false">
     <notes>FIX BUG</notes>
 
     <android
